@@ -1,0 +1,36 @@
+.Universe {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../assets/background.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.Universe div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 888px;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.Universe button {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.Universe button img {
+  width: 48px;
+  height: 48px;
+}
+
+.Universe img {
+  width: 180px;
+  height: 180px;
+  cursor: pointer;
+}

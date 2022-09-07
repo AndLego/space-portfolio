@@ -1,0 +1,25 @@
+:root {
+  --main-font: 'Combo', cursive;
+
+  --main-blue: #033270;
+  --dark-blue: #001242;
+  --main-text: #fedfd4;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Combo', cursive;
+  font-size: 62.5%;
+  background-color: #202124;;
+}
+
+.base-page-size {
+  width: 100%;
+  min-height: 100vh;
+}
+
