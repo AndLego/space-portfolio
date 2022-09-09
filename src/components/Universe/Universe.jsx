@@ -1,10 +1,14 @@
 import React from "react";
 import { Curtain } from "../Curtain/Curtain";
 
-import HomePlanet from "../../assets/planet-earth-svgrepo-com.svg";
-import WorkPlanet from "../../assets/jupiter-svgrepo-com.svg";
+import Earth from "../../assets/planet-earth-svgrepo-com.svg";
+import Jupiter from "../../assets/jupiter-svgrepo-com.svg";
 import ContactPlanet from "../../assets/neptune-svgrepo-com.svg";
-import Back from "../../assets/space-ship-svgrepo-com.svg";
+import Back from "../../assets/rocket.svg"
+import DeathStar from "../../assets/space-station-svgrepo-com.svg"
+import Fighter from "../../assets/space-dark-force.svg"
+import Moon from  "../../assets/moon-svgrepo-com.svg"
+
 import styles from "./Universe.module.css";
 
 const Universe = ({ setHide, hide }) => {
@@ -18,10 +22,35 @@ const Universe = ({ setHide, hide }) => {
       <div>
         <button onClick={handleClick}>
           <img src={Back} alt="" />
+          <span>Go Back</span>
         </button>
-        <img src={HomePlanet} alt="" />
-        <img src={WorkPlanet} alt="" />
-        <img src={ContactPlanet} alt="" />
+        <div className={styles.Planets}>
+          <div>
+            <img className={styles.Planet} src={Earth} alt="About Me" />
+            <img className={styles.DeathStar} src={DeathStar} alt="" />
+            <img className={styles.Fighter} src={Fighter} alt="" />
+            <img className={styles.Moon} src={Moon}></img>
+            <span>About Me</span>
+          </div>
+          <div>
+            <img className={styles.Planet} src={Jupiter} alt="My Work" />
+            <img className={styles.DeathStar} src={DeathStar} alt="" />
+            <img className={styles.Fighter} src={Fighter} alt="" />
+            <img className={styles.Moon} src={Moon}></img>
+            <span>My Work</span>
+          </div>
+          <div>
+            <img
+              className={styles.Planet}
+              src={ContactPlanet}
+              alt="Contact Me"
+            />
+            <img className={styles.DeathStar} src={DeathStar} alt="" />
+            <img className={styles.Fighter} src={Fighter} alt="" />
+            <img className={styles.Moon} src={Moon}></img>
+            <span>Contact</span>
+          </div>
+        </div>
       </div>
     </div>
     //    </Curtain>

@@ -1,50 +1,168 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="2000" height="1000" preserveAspectRatio="none" viewBox="0 0 2000 1000">
-    <g mask="url(&quot;#SvgjsMask1000&quot;)" fill="none">
-        <rect width="2000" height="1000" x="0" y="0" fill="#0e2a47"></rect>
-        <path d="M1411.678,977.704C1444.197,978.02,1469.305,952.44,1485.242,924.092C1500.803,896.413,1506.868,863.315,1491.655,835.444C1475.851,806.491,1444.657,788.713,1411.678,789.319C1379.668,789.907,1351.697,810.043,1336.631,838.291C1322.427,864.924,1326.241,896.108,1340.548,922.686C1355.776,950.975,1379.553,977.392,1411.678,977.704" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path>
-        <path d="M1480.59 790.01 a263.59 263.59 0 1 0 527.18 0 a263.59 263.59 0 1 0 -527.18 0z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float1"></path>
-        <path d="M270.092,968.611C340.937,966.424,414.184,950.629,452.738,891.153C494.512,826.711,497.769,742.93,459.577,676.303C421.192,609.34,347.275,572.972,270.092,572.525C192.074,572.073,117.637,607.628,76.766,674.085C33.87,743.835,21.877,834.612,66.811,903.067C108.684,966.859,193.821,970.966,270.092,968.611" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path>
-        <path d="M1030.485,881.364C1078.995,881.908,1121.318,849.804,1144.074,806.959C1165.466,766.682,1161.481,718.392,1137.718,679.467C1114.972,642.208,1074.135,621.432,1030.485,620.895C985.802,620.345,941.437,638.372,918.582,676.771C895.245,715.979,899.329,764.428,921.224,804.459C944.13,846.339,982.753,880.829,1030.485,881.364" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path>
-        <path d="M1289.21 136.14 a315.79 315.79 0 1 0 631.58 0 a315.79 315.79 0 1 0 -631.58 0z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float1"></path>
-        <path d="M1007.586,1057.638C1063.926,1057.601,1113.18,1024.283,1142.68,976.284C1173.824,925.611,1187.552,863.032,1159.39,810.644C1129.904,755.794,1069.843,723.588,1007.586,724.981C947.569,726.324,895.57,764.326,867.111,817.184C840.122,867.312,843.471,927.301,872.189,976.459C900.64,1025.158,951.185,1057.675,1007.586,1057.638" fill="rgba(28, 83, 142, 0.4)" class="triangle-float3"></path>
-        <path d="M664.926,354.724C755.703,362.441,856.441,334.463,899.201,254.017C940.383,176.54,890.719,89.704,845.884,14.282C802.462,-58.764,749.904,-140.335,664.926,-140.086C580.198,-139.838,522.742,-60.911,485.796,15.337C454.012,80.932,456.765,154.835,490.788,219.297C527.576,288.997,586.396,348.048,664.926,354.724" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path>
-        <path d="M660.34 51.93 a238.03 238.03 0 1 0 476.06 0 a238.03 238.03 0 1 0 -476.06 0z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path>
-        <path d="M841.861,574.219C886.936,575.398,916.706,532.618,938.658,493.232C959.85,455.209,974.59,410.94,954.345,372.404C932.889,331.563,887.947,306.878,841.861,308.985C798.837,310.952,764.924,343.302,745.887,381.935C729.034,416.135,736.429,454.273,753.456,488.387C773.116,527.775,797.854,573.068,841.861,574.219" fill="rgba(28, 83, 142, 0.4)" class="triangle-float1"></path>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="2000" height="1200" preserveAspectRatio="none" viewBox="0 0 2000 1200">
+    <g mask="url(&quot;#SvgjsMask1063&quot;)" fill="none">
+        <rect width="2000" height="1200" x="0" y="0" fill="rgba(8, 25, 43, 1)"></rect>
+        <use xlink:href="#SvgjsSymbol1070" x="0" y="0"></use>
+        <use xlink:href="#SvgjsSymbol1070" x="0" y="720"></use>
+        <use xlink:href="#SvgjsSymbol1070" x="720" y="0"></use>
+        <use xlink:href="#SvgjsSymbol1070" x="720" y="720"></use>
+        <use xlink:href="#SvgjsSymbol1070" x="1440" y="0"></use>
+        <use xlink:href="#SvgjsSymbol1070" x="1440" y="720"></use>
     </g>
     <defs>
-        <mask id="SvgjsMask1000">
-            <rect width="2000" height="1000" fill="#ffffff"></rect>
+        <mask id="SvgjsMask1063">
+            <rect width="2000" height="1200" fill="#ffffff"></rect>
         </mask>
-        <style>
-            @keyframes float1 {
-                0%{transform: translate(0, 0)}
-                50%{transform: translate(-10px, 0)}
-                100%{transform: translate(0, 0)}
-            }
-
-            .triangle-float1 {
-                animation: float1 5s infinite;
-            }
-
-            @keyframes float2 {
-                0%{transform: translate(0, 0)}
-                50%{transform: translate(-5px, -5px)}
-                100%{transform: translate(0, 0)}
-            }
-
-            .triangle-float2 {
-                animation: float2 4s infinite;
-            }
-
-            @keyframes float3 {
-                0%{transform: translate(0, 0)}
-                50%{transform: translate(0, -10px)}
-                100%{transform: translate(0, 0)}
-            }
-
-            .triangle-float3 {
-                animation: float3 6s infinite;
-            }
-        </style>
+        <path d="M-1 0 a1 1 0 1 0 2 0 a1 1 0 1 0 -2 0z" id="SvgjsPath1068"></path>
+        <path d="M-3 0 a3 3 0 1 0 6 0 a3 3 0 1 0 -6 0z" id="SvgjsPath1067"></path>
+        <path d="M-5 0 a5 5 0 1 0 10 0 a5 5 0 1 0 -10 0z" id="SvgjsPath1064"></path>
+        <path d="M2 -2 L-2 2z" id="SvgjsPath1066"></path>
+        <path d="M6 -6 L-6 6z" id="SvgjsPath1065"></path>
+        <path d="M30 -30 L-30 30z" id="SvgjsPath1069"></path>
     </defs>
+    <symbol id="SvgjsSymbol1070">
+        <use xlink:href="#SvgjsPath1064" x="30" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="30" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="30" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="30" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="30" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="30" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="30" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="30" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="30" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="30" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="30" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="30" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="90" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="90" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="90" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="90" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="90" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="90" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="90" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="90" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="90" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="90" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="90" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="90" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="150" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="150" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1069" x="150" y="150" stroke="#1c538e" stroke-width="3"></use>
+        <use xlink:href="#SvgjsPath1064" x="150" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1069" x="150" y="270" stroke="#1c538e" stroke-width="3"></use>
+        <use xlink:href="#SvgjsPath1064" x="150" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="150" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="150" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="150" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1069" x="150" y="570" stroke="#1c538e" stroke-width="3"></use>
+        <use xlink:href="#SvgjsPath1065" x="150" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="150" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="210" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="210" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="210" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="210" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="210" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="210" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="210" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="210" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="210" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1069" x="210" y="570" stroke="#1c538e" stroke-width="3"></use>
+        <use xlink:href="#SvgjsPath1064" x="210" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="210" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="270" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="270" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="270" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="270" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="270" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="270" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="270" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="270" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="270" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="270" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="270" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="270" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="330" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="330" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="330" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="330" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="330" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="330" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="330" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="330" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="330" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="330" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="330" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="330" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="390" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="390" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="390" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="390" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="390" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="390" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="390" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="390" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="390" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="390" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="390" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="390" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="450" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="450" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="450" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="450" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="450" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1069" x="450" y="330" stroke="#1c538e" stroke-width="3"></use>
+        <use xlink:href="#SvgjsPath1066" x="450" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="450" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="450" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="450" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="450" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="450" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="510" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="510" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="510" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="510" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="510" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="510" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="510" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="510" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="510" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="510" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="510" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="510" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="570" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="570" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="570" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="570" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="570" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="570" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="570" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1069" x="570" y="450" stroke="#1c538e" stroke-width="3"></use>
+        <use xlink:href="#SvgjsPath1065" x="570" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="570" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="570" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="570" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="630" y="30" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="630" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="630" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="630" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="630" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="630" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="630" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="630" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="630" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="630" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="630" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="630" y="690" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1069" x="690" y="30" stroke="#1c538e" stroke-width="3"></use>
+        <use xlink:href="#SvgjsPath1066" x="690" y="90" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1068" x="690" y="150" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="690" y="210" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="690" y="270" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="690" y="330" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="690" y="390" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1064" x="690" y="450" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1066" x="690" y="510" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1065" x="690" y="570" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="690" y="630" stroke="#1c538e"></use>
+        <use xlink:href="#SvgjsPath1067" x="690" y="690" stroke="#1c538e"></use>
+    </symbol>
 </svg>
